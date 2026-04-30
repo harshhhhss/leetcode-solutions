@@ -29,7 +29,7 @@ To improve problem-solving skills, strengthen DSA concepts, and stay consistent 
 
 | Topic | Solved |
 |------|--------|
-| Arrays | 3 |
+| Arrays | 4 |
 | Strings | 0 |
 | Linked List | 0 |
 | Stack | 0 |
