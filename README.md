@@ -29,8 +29,8 @@ To improve problem-solving skills, strengthen DSA concepts, and stay consistent 
 
 | Topic | Solved |
 |------|--------|
-| Arrays | 6 |
-| Strings | 0 |
+| Arrays | 9 |
+| Strings | 1 |
 | Linked List | 0 |
 | Stack | 0 |
 | Queue | 0 |
@@ -41,4 +41,4 @@ To improve problem-solving skills, strengthen DSA concepts, and stay consistent 
 | Backtracking | 0 |
 | Binary Search | 1 |
 | Sliding Window | 0 |
-| Math | 2 |
+| Math | 3 |
