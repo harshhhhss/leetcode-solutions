@@ -29,16 +29,16 @@ To improve problem-solving skills, strengthen DSA concepts, and stay consistent 
 
 | Topic | Solved |
 |------|--------|
-| Arrays | 9 |
-| Strings | 1 |
+| Arrays | 14 |
+| Strings | 3 |
 | Linked List | 0 |
-| Stack | 0 |
+| Stack | 1 |
 | Queue | 0 |
 | Trees | 0 |
 | Graphs | 0 |
 | Dynamic Programming | 0 |
-| Greedy | 0 |
+| Greedy | 2 |
 | Backtracking | 0 |
-| Binary Search | 1 |
+| Binary Search | 4 |
 | Sliding Window | 0 |
-| Math | 3 |
+| Math | 5 |
