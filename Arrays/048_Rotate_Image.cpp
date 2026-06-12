@@ -1,4 +1,4 @@
-// Problem: Next Permutation
+// Problem: Rotate Image
 // Difficulty: Medium
 // Topic: Arrays
 
