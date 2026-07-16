@@ -1,6 +1,6 @@
-// Problem: Best Time to Buy and Sell Stock II
+// Problem: Find the Difference
 // Difficulty: Medium
-// Topic: Greedy
+// Topic: Math
 
 #include <bits/stdc++.h>
 using namespace std;
