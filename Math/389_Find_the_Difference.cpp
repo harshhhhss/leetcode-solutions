@@ -1,5 +1,5 @@
 // Problem: Find the Difference
-// Difficulty: Medium
+// Difficulty: Easy
 // Topic: Math
 
 #include <bits/stdc++.h>
