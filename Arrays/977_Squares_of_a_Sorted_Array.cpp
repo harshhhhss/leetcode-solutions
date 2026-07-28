@@ -1,0 +1,27 @@
+// Problem: Squares of a Sorted Array
+// Difficulty: Easy
+// Topic: Arrays
+
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    vector<int> sortedSquares(vector<int>& nums) {
+        int left=0;
+        int right=nums.size()-1;
+        int index=nums.size()-1;
+        vector<int> ans(nums.size());
+        while(left<=right){
+            if(abs(nums[left])>abs(nums[right])){
+                ans[index]=nums[left]*nums[left];
+                left++;
+            } else{
+                ans[index]=nums[right]*nums[right];
+                right--;
+            }
+            index--;
+        }
+        return ans;
+    }
+};
