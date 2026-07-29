@@ -1,4 +1,4 @@
-// Problem: Ugly Number
+// Problem: Power of Two
 // Difficulty: Easy
 // Topic: Math
 
