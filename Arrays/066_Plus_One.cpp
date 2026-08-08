@@ -1,4 +1,4 @@
-// Problem: Remove Element 
+// Problem: Plus One
 // Difficulty: Easy
 // Topic: Arrays
 
