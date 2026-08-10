@@ -1,4 +1,4 @@
-// Problem: Reverse Linked List
+// Problem: Middle of the Linked List
 // Difficulty: Easy
 // Topic: Linked List
 
