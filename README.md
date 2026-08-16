@@ -40,5 +40,5 @@ To improve problem-solving skills, strengthen DSA concepts, and stay consistent 
 | Greedy | 2 |
 | Backtracking | 0 |
 | Binary Search | 4 |
-| Sliding Window | 0 |
+| Sliding Window | 7 |
 | Math | 5 |
